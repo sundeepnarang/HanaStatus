@@ -1,0 +1,11 @@
+{
+  "name": "Hana-checking-Service"
+  ,"version": "0.00.00"
+  ,"private": true
+  ,"license": "Closed Source License"
+  ,"dependencies": {
+    "nodemailer":"~0.6.5"
+  }
+  
+  ,"author": "Sundeep Narang <sundeepnrng@gmail.com> (https://www.linkedin.com/in/sundeepnarang)"
+}
